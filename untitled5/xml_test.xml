@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?>
+<object name="商品">
+    <book type="shuji">
+        <computerbook type="计算机类">ssss</computerbook>
+    </book>
+    <book type="shua">
+        <wenxue type="文学">
+            圣经
+        </wenxue>
+    </book>
+</object>
